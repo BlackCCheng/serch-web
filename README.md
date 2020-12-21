@@ -1,4 +1,4 @@
-# serch-web
+# serch
 
 ## Build Setup
 

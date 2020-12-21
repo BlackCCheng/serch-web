@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        serch-web
+        serch
       </h1>
       <h2 class="subtitle">
         Welcome to the iView + Nuxt.js template
